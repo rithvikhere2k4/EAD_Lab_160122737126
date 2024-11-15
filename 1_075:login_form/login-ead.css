@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("ak.jpg");
+    background-size: cover;
+}
+.box{
+    border: none; 
+    border-radius: 40xp;
+    background-color: rgb(104, 167, 222); 
+    margin-top: 24%; 
+    margin-left: 40%; 
+    margin-right: 40%;
+    padding: 20xp;
+    align-items: center;
+}
+.box button{
+    color: black;
+    size: 10xp;
+}
